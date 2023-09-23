@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python Course and C++/C Course**
 
-- 📫 How to reach me **discord.gg/W6EMGaBH**
+- 📫 How to reach me **discord.gg/codeplatform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/W6EMGaBH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/W6EMGaBH" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/codeplatform" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/codeplatform" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
