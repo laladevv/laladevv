@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Course and C++/C Course**
 
-- 📫 How to reach me **discord.gg/codeplatform**
+- 📫 How to reach me **[discord.gg/laladevv](https://discord.gg/SQ729yBU)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
